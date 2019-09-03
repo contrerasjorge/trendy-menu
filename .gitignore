@@ -24,4 +24,4 @@ yarn-error.log*
 
 .env
 
-securities-rules.json
+security-rules.json
