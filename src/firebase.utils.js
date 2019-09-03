@@ -2,7 +2,7 @@ import Rebase from 're-base';
 import firebase from 'firebase';
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: process.env.REACT_APP_FIREBASE,
+  apiKey: 'AIzaSyBtpVlkgnq3pvu4m_QDp035VEph2j0xp5k',
   authDomain: 'trendy-menu.firebaseapp.com',
   databaseURL: 'https://trendy-menu.firebaseio.com',
   projectId: 'trendy-menu',
